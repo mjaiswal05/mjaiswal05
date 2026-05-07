@@ -33,7 +33,6 @@ PostgreSQL • MySQL • Redis • ClickHouse
 Featured Projects
 
 Beacon — City-Scale Emergency Response Platform  
-🔗 https://github.com/mjaiswal05/beacon-docs
 
 Distributed emergency response platform built for Irish local authorities. Built with 6 Go microservices, a React/TypeScript dashboard, and a Flutter mobile app — all deployed on Google Kubernetes Engine.
 
@@ -45,7 +44,6 @@ Go • React • TypeScript • GCP • Kubernetes • Vertex AI • PostgreSQL 
 ━━━━━━━━━━━━━━━━━━
 
 Payment Gateway Integration System  
-🔗 https://github.com/mjaiswal05/payment-gateway
 
 Full-stack payment platform with Stripe and PayPal API integration, webhook-based real-time transaction confirmation, and automated CI/CD deployment on AWS.
 
@@ -57,7 +55,6 @@ Java • Spring Boot • React • PostgreSQL • AWS • Docker • GitHub Acti
 ━━━━━━━━━━━━━━━━━━
 
 AI CAPTCHA Detection System  
-🔗 https://github.com/mjaiswal05/ai-captcha-system
 
 ML-driven bot detection system achieving 92% accuracy through multi-layer behavioural analysis. Built with Python and Flask, with low-latency edge deployment for real-time detection.
 
